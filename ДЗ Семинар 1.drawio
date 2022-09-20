@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T19:40:43.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.5.1027 Yowser/2.5 Safari/537.36" etag="haKj07uLzlGf4oIhOfyt" version="20.3.3" type="github"><diagram id="JSsoLerhAI2nsH8LYzoI" name="Страница 1">3VhZb9swDP41AbaHBLYVH3ls0rTb2gEDCqzPsq04WmXLU5Rrv366fCVyjqEBiqWAK3+USJEiPyoZgFm+e2SwXH6nKSIDz0l3A3A/8DwXhGPxTyJ7jYSBr4GM4dRMaoAX/AcZ0DHoGqdo1ZnIKSUcl10woUWBEt7BIGN02522oKRrtYQZOgJeEkiO0Vec8qVGIy9s8C8IZ8vKshtMtCSH1WTjyWoJU7ptQWA+ADNGKdejfDdDRAaviote99AjrTfGUMEvWYDZ1+BpA78t0FOyd183T88FGAKtZQPJ2jhsNsv3VQRQKgJiXinjS5rRApJ5g04ZXRcpkmYc8dbMeaa0FKArwF+I8705XbjmVEBLnhMjPXbFeLeia5agE/uvUgKyDPET84xb0peWAROoR0RzxNleTGCIQI433cOHJoeyel4TZjEwkb4i6q4l6gER+5/GYpDJwUDEcuINRHiiqXqGEplGauyqsZoz9dXzvpIqRGaC0ccahXqheDqthePWco0A9ZxLJXLgtJZo63rJrFoiEK8lDVu43uedUWhRrjcsaskZD9UKtXe7u75x2ngmAt8E6yhnCREEIXNzu8QcvZRQZdFWcFQ38xaYkBkllKl1YOHLP4nTgrdw/RH4ijP6hlqSQH3MigeYYyKJ7idiKSzgqdTeIMbR7mQyGqnnGwbZd6lx2/ARqEhm2eYi4Nwof8MPwRrXRvwsmXgXkknwocjE6yWTsnMkwe+1bDVTggs0rPLkTkxxR54KmyMDOlypcCs8KHdKUK1syk3rl/OtJvoUORbbwGoCSh6QKh2/ZbBhs7iWh1Z5UssnVnlay123NUEcgHaq66iAy0PswuB6I/ffgrsqYWE1EcPkLVPFM0w0D0l9uMAcQ3L78/KsJu7YdyT2e0kktWOnAnxAJeLiVMqhKGlICCI0YzCXJ4AYFiWE2KHsRyM4z/87VN06bf0gSlCS2Hg/jvyx7/SzkIQr/rNc1a5vAuNoFPrdPhDZGoE38i2twL9VK5j8n60guLAVRB+qFQS9reDq0u8p8Io1PymC9iRHxPUoqUfpZzV8kBe7XkY4SJNzldpTZ92CRW7qo9BWsJMgBDA4qsz3uaGBbmWOHUtl+rYrWnCruozeLxVsXcC3N5rOlxZxW/daV3+ZCDCXp1rEq1JrtnxNqZUeZFzUMXdRRlWNI6XJOlene64dxJqInuPrsm6xWHj2NpEGceDfLOvCUTfvAmDJu7GtH4TX5514bX6sULLWTz5g/hc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-20T04:27:36.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.5.1027 Yowser/2.5 Safari/537.36" etag="iI-45Z2-v50h3KASQ5k2" version="20.3.3" type="github">
+  <diagram id="JSsoLerhAI2nsH8LYzoI" name="Страница 1">
+    <mxGraphModel dx="1616" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" parent="1" source="irI6KvaJfeKcy1WvKLn3-2" target="irI6KvaJfeKcy1WvKLn3-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-2" value="&lt;p style=&quot;line-height: 1.2; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 1.3;&quot;&gt;a = 5;&lt;br&gt;b = 7;&lt;br&gt;c = 9;&lt;br&gt;d = 11;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 2.1; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 1.2;&quot;&gt;ArMean = 0;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="248.75" y="180" width="322.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" parent="1" source="irI6KvaJfeKcy1WvKLn3-6" target="irI6KvaJfeKcy1WvKLn3-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ArMean = (a + b + c + d) / 4&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="400" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-8" value="&lt;font style=&quot;font-size: 16px; line-height: 1.5;&quot;&gt;Вывод&amp;nbsp; &lt;br&gt;&quot;ArMean = 8&quot;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fillColor=#0050ef;strokeColor=#001DBC;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="630" width="345" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bc77YkjF6ze5RHih_S25-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bc77YkjF6ze5RHih_S25-1" target="irI6KvaJfeKcy1WvKLn3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc77YkjF6ze5RHih_S25-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;Вычисление&lt;br&gt;среднего арифметического&lt;br&gt;&amp;nbsp;из 4-х чисел&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="320" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
