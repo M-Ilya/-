@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" modified="2022-09-23T19:25:47.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1095 Yowser/2.5 Safari/537.36" etag="glq8utdUoc10FuDrUYTN" version="20.3.3" type="github">
+  <diagram id="JSsoLerhAI2nsH8LYzoI" name="Страница 1">
+    <mxGraphModel dx="1374" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D4F3FF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" source="irI6KvaJfeKcy1WvKLn3-2" target="PIO5g4ZR2YZjSq949ESK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-2" value="&lt;p style=&quot;line-height: 1.2; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 1.3;&quot;&gt;i = 1;&lt;br&gt;F = 1;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="254.38" y="180" width="311.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="irI6KvaJfeKcy1WvKLn3-6" target="PIO5g4ZR2YZjSq949ESK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="650" />
+              <mxPoint x="180" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;F = F * i;&lt;br&gt;&lt;br&gt;i = i + 1;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="272.5" y="610" width="275" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="irI6KvaJfeKcy1WvKLn3-8" value="&lt;font style=&quot;font-size: 16px; line-height: 1.5;&quot;&gt;Вывод&amp;nbsp; &lt;br&gt;&quot;N! =&quot; F&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fillColor=#0050ef;strokeColor=#001DBC;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="258.76" y="790" width="302.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bc77YkjF6ze5RHih_S25-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bc77YkjF6ze5RHih_S25-1" target="irI6KvaJfeKcy1WvKLn3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc77YkjF6ze5RHih_S25-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Нахождение индексов максимального и минимального элемента&lt;br/&gt;массива&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="250" y="10" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=16;" parent="1" source="PIO5g4ZR2YZjSq949ESK-1" target="irI6KvaJfeKcy1WvKLn3-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PIO5g4ZR2YZjSq949ESK-1" target="irI6KvaJfeKcy1WvKLn3-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="430" />
+              <mxPoint x="690" y="740" />
+              <mxPoint x="410" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;i &amp;lt;= N&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="325.01" y="350" width="169.99" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-6" value="&lt;b&gt;Нет&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="550" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIO5g4ZR2YZjSq949ESK-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="364" y="550" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
